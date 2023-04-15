@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Matt 👋
+I'm a software developer with over a decade of experience, I bring a wealth of knowledge and expertise to the table. I have a passion for streamlining processes and finding innovative solutions, I have helped companies tackle their biggest challenges and achieve their goals, through custom software tailored specifically to their needs. 
+
+> Why do things manually when you can "auto"-matically get them done?
+
+- 🔭 I’m currently working at CreataCRM
+- 🌱 I’m currently learning Angular and Azure
+- 📫 I love connecting with new people, you can reach me at matt@mattholliday.dev
 
 <!--
 **mattmholliday/mattmholliday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
