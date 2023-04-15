@@ -5,7 +5,9 @@ I'm a software developer with over a decade of experience, I bring a wealth of k
 
 - 🔭 I’m currently working at CreataCRM
 - 🌱 I’m currently learning Angular and Azure
-- 📫 I love connecting with new people, you can reach me at matt@mattholliday.dev
+- 📫 I love connecting with new people
+  - Shoot me an email: [matt@mattholliday.dev](mailto:matt@mattholliday.dev)
+  - Connect over at LinkedIn: [mattmholliday](https://linkedin.com/in/mattmholliday)
 
 <!--
 **mattmholliday/mattmholliday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
