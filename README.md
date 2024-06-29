@@ -3,8 +3,8 @@ I'm a software developer with over a decade of experience, I bring a wealth of k
 
 > Why do things manually when you can "auto"-matically get them done?
 
-- 🔭 I’m currently working at CreataCRM
-- 🌱 I’m currently learning Angular and Azure
+- 🔭 I’m currently working at Digicall Assist on a services automation platform called Digiflo
+- 🌱 I’m currently learning how to boost developer productivity with microservices
 - 📫 I love connecting with new people
   - Shoot me an email: [matt@mattholliday.dev](mailto:matt@mattholliday.dev)
   - Connect over at LinkedIn: [mattmholliday](https://linkedin.com/in/mattmholliday)
